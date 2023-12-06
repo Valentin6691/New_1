@@ -1,0 +1,15 @@
+C:\Users\ALFA\Desktop\Example\Test003\obj\Debug\net6.0\Test003.csproj.AssemblyReference.cache
+C:\Users\ALFA\Desktop\Example\Test003\obj\Debug\net6.0\Test003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALFA\Desktop\Example\Test003\obj\Debug\net6.0\Test003.AssemblyInfoInputs.cache
+C:\Users\ALFA\Desktop\Example\Test003\obj\Debug\net6.0\Test003.AssemblyInfo.cs
+C:\Users\ALFA\Desktop\Example\Test003\obj\Debug\net6.0\Test003.csproj.CoreCompileInputs.cache
+C:\Users\ALFA\Desktop\Example\Test003\bin\Debug\net6.0\Test003.exe
+C:\Users\ALFA\Desktop\Example\Test003\bin\Debug\net6.0\Test003.deps.json
+C:\Users\ALFA\Desktop\Example\Test003\bin\Debug\net6.0\Test003.runtimeconfig.json
+C:\Users\ALFA\Desktop\Example\Test003\bin\Debug\net6.0\Test003.dll
+C:\Users\ALFA\Desktop\Example\Test003\bin\Debug\net6.0\Test003.pdb
+C:\Users\ALFA\Desktop\Example\Test003\obj\Debug\net6.0\Test003.dll
+C:\Users\ALFA\Desktop\Example\Test003\obj\Debug\net6.0\refint\Test003.dll
+C:\Users\ALFA\Desktop\Example\Test003\obj\Debug\net6.0\Test003.pdb
+C:\Users\ALFA\Desktop\Example\Test003\obj\Debug\net6.0\Test003.genruntimeconfig.cache
+C:\Users\ALFA\Desktop\Example\Test003\obj\Debug\net6.0\ref\Test003.dll
